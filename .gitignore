@@ -32,6 +32,9 @@ local.properties
 # vscode
 .vscode
 
+# jest
+coverage
+
 # node.js
 #
 node_modules/
